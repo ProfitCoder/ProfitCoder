@@ -30,12 +30,15 @@ Mi objetivo es dominar backend + bases de datos y crear soluciones reales.
 
 ---
 
+---
+
 ## 📊 Estadísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ProfitCoder&show_icons=true&theme=tokyonight&hide_border=true&card_width=450)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfitCoder&layout=compact&theme=tokyonight&hide_border=true&card_width=350)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProfitCoder&theme=tokyonight&card_width=450)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProfitCoder&theme=tokyonight&card_width=450)
 
 ---
+
 ## 📌 Proyectos Destacados
 
 - 📘 Exams-Java  
