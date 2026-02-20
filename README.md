@@ -32,10 +32,9 @@ Mi objetivo es dominar backend + bases de datos y crear soluciones reales.
 
 ## 📊 Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProfitCoder&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfitCoder&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
-</p>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProfitCoder&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProfitCoder&theme=tokyonight)
 
 ---
 
