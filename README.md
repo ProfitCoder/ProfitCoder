@@ -1,7 +1,9 @@
 # 👋 Hola, soy Pablo Manuel Fernandez Velazquez (ProfirCoder)
 
 💻 Desarrollador de páginas Web
+
 📊 Interesado en tecnología + finanzas  
+
 🚀 Aprendiendo y compartiendo lo que puedo de ello.  
 
 ---
