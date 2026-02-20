@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300/0d1117/00ff99?text=ProfitCoder+-+Java+%7C+HTML+%7C+MySQL" />
-</p>
-
 # 👋 Hola, soy Pablo Manuel Fernández Velazquez
 
 💻 Desarrollador enfocado en construir proyectos reales desde cero  
