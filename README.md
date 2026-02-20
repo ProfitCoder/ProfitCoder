@@ -1,8 +1,8 @@
 # 👋 Hola, soy Pablo Manuel Fernandez Velazquez (ProfirCoder)
 
-💻 Desarrollador enfocado en construir proyectos reales desde cero  
+💻 Desarrollador de páginas Web
 📊 Interesado en tecnología + finanzas  
-🚀 Aprendiendo y documentando el proceso públicamente  
+🚀 Aprendiendo y compartiendo lo que puedo de ello.  
 
 ---
 
@@ -13,9 +13,9 @@ Actualmente estoy desarrollando proyectos prácticos en:
 - ☕ Java (Ejercicios progresivos)
 - 🌐 HTML & CSS
 - 🗄 MySQL desde cero
-- 📈 Automatización y gestión financiera
+- 📈 Automatización y gestión financiera en mi canal de YT (Enlace al final)
 
-Mi objetivo es dominar backend + bases de datos y crear soluciones reales.
+Mi objetivo es dominar bases de datos y HTML consiguiendo así, crear páginas WEB Profesionales.
 
 ---
 
@@ -44,7 +44,7 @@ Mi objetivo es dominar backend + bases de datos y crear soluciones reales.
 - 📘 Exams-Java  
 - 🌐 HTML-Exams  
 - 🧩 Ejercicios-de-Java  
-- 💬 Prompt-Para-ChatGPT  
+- 💬 Ejercicios-de-HTML
 
 ---
 
