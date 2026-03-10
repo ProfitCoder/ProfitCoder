@@ -32,6 +32,8 @@ My goal is to master databases and HTML in order to create professional WEB page
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+Also I have done courses, like for example AI adapted and explained for Microsoft365.
+
 ---
 
 ---
