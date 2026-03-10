@@ -1,27 +1,27 @@
-# 👋 Hola, soy Pablo Manuel Fernandez Velazquez (ProfirCoder)
+# 👋 Hello, I'm Pablo Manuel Fernandez Velazquez (ProfirCoder)
 
-💻 Desarrollador de páginas Web
+💻 Web Developer  
 
-📊 Interesado en tecnología + finanzas  
+📊 Interested in Technology + Finance  
 
-🚀 Aprendiendo y compartiendo lo que puedo de ello.  
+🚀 Learning and sharing what I can along the way.  
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 About Me
 
-Actualmente estoy desarrollando proyectos prácticos en:
+Currently I am developing practical projects in:
 
-- ☕ Java (Ejercicios progresivos)
+- ☕ Java (Progressive exercises)
 - 🌐 HTML & CSS
-- 🗄 MySQL desde cero
-- 📈 Automatización y gestión financiera en mi canal de YT (Enlace al final)
+- 🗄 MySQL from scratch
+- 📈 Financial automation and management on my YT channel (Link at the end)
 
-Mi objetivo es dominar bases de datos y HTML consiguiendo así, crear páginas WEB Profesionales.
+My goal is to master databases and HTML in order to create professional WEB pages.
 
 ---
 
-## 🛠 Tecnologías
+## 🛠 Technologies
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -34,22 +34,22 @@ Mi objetivo es dominar bases de datos y HTML consiguiendo así, crear páginas W
 
 ---
 
-## 📊 Estadísticas
+## 📊 Statistics
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProfitCoder&theme=tokyonight&card_width=450)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProfitCoder&theme=tokyonight&card_width=450)
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 
 - 📘 Exams-Java  
 - 🌐 HTML-Exams  
-- 🧩 Ejercicios-de-Java  
-- 💬 Ejercicios-de-HTML
+- 🧩 Java-Exercises  
+- 💬 HTML-Exercises
 
 ---
 
-## 📺 Conecta conmigo
+## 📺 Connect with me
 
 YouTube: https://www.youtube.com/@pablofernandezinvest
