@@ -10,6 +10,8 @@
 
 ## 🧠 About Me
 
+I'm 18 years old and I have always been connected to technology, even before I fully realized it. As soon as I started learning programming, I became fascinated by it and discovered how attractive and interesting the field of computer science truly is.
+
 Currently I am developing practical projects in:
 
 - ☕ Java (Progressive exercises)
