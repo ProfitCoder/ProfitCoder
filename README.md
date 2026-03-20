@@ -16,7 +16,7 @@ Currently I am developing practical projects in:
 
 - ☕ Java (Progressive exercises)
 - 🌐 HTML & CSS
-- 🗄 MySQL from scratch
+- 🗄 MySQL and PL/SQL
 - 📈 Financial automation and management on my YT channel (Link at the end)
 
 My goal is to master databases and HTML in order to create professional WEB pages.
