@@ -63,11 +63,11 @@ I also share content about financial automation and management on [YouTube](http
 
 ---
 
-## 🚀 Published project
+## 🌐 Websites I've built
 
 ### Grupo Compulsa S.L.
 
-A website I developed and published for Grupo Compulsa S.L.
+A website I built and published for Grupo Compulsa S.L. with the assistance of AI tools during development.
 
 <a href="https://compulsa.es/">
   <img src="https://img.shields.io/badge/Visit_compulsa.es-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Grupo Compulsa's website"/>
