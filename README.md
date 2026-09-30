@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&height=55&lines=Hi%2C+I'm+ProfitCoder;Learning+by+building;Connecting+technology+and+finance" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&height=55&lines=Hi%2C+I'm+ProfitCoder;Learning+by+building;Connecting+technology+and+finance;This+is+Big" alt="Animated introduction"/>
 </p>
 
 <p align="center">
