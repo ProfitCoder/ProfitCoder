@@ -42,8 +42,6 @@ My goal is to master databases and HTML in order to create professional WEB page
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
 </p>
 
-I have also completed a course on using AI with Microsoft 365.
-
 I have also completed courses, such as AI adapted and explained for Microsoft 365.
 
 ---
