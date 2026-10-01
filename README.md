@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About me
 
-I'm a 19-year-old web development student interested in technology and finance. I enjoy turning what I learn into practical projects and sharing my progress along the way.
+I'm a 19 year old web development student interested in technology and finance. I enjoy turning what I learn into practical projects and sharing my progress along the way.
 
 - **Currently learning:** JavaScript and PHP.
 - **Developing my skills in:** Java, MySQL, and PL/SQL.
