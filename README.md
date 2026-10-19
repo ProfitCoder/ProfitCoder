@@ -107,7 +107,8 @@ A website I built and published for Grupo Compulsa S.L. with the assistance of A
   &nbsp;·&nbsp;
   <a href="https://compulsa.es/">Published website</a>
 </p>
-## 📺 Technology & finance
+
+## 📺Technology & finance
 
 On my YouTube channel, I share content about financial automation and management.
 
