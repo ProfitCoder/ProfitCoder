@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=550&amp;height=55&amp;lines=Hi%2C+I%27m+ProfitCoder;Learning+by+building;Building+web+apps+and+games;Connecting+technology+and+finance" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=550&amp;height=55&amp;lines=Hi%2C+I%27m+ProfitCoder;Learning+by+building;Building+web+apps+and+games;Connecting+technology+and+finance" alt="Animated introduction">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pablo-manuel-fern%C3%A1ndez-velazquez-715169385/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@pablofernandezinvest"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube"/></a>
-  <a href="https://compulsa.es/"><img src="https://img.shields.io/badge/Compulsa-0284C7?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit the Grupo Compulsa website"/></a>
-  <a href="https://github.com/ProfitCoder?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub repositories"/></a>
+  <a href="https://www.linkedin.com/in/pablo-manuel-fern%C3%A1ndez-velazquez-715169385/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@pablofernandezinvest"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube"></a>
+  <a href="https://compulsa.es/"><img src="https://img.shields.io/badge/Compulsa-0284C7?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit the Grupo Compulsa website"></a>
+  <a href="https://github.com/ProfitCoder?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub repositories"></a>
 </p>
 
 <p align="center">
@@ -44,33 +44,36 @@ I've also completed a course on using AI with Microsoft 365.
 
 A corporate website I built and published for Grupo Compulsa S.L. with the assistance of AI tools during development. It presents the company's services and gives visitors a way to get in touch.
 
-<a href="https://compulsa.es/">
-  <img src="https://img.shields.io/badge/Visit_compulsa.es-0284C7?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit compulsa.es"/>
-</a>
+[![Visit compulsa.es](https://img.shields.io/badge/Visit_compulsa.es-0284C7?style=flat-square&logo=googlechrome&logoColor=white)](https://compulsa.es/)
 
 ### 🗂️ WebbApp for Notes
 
 A sticky-note board built with vanilla JavaScript and Cloud Firestore. Users can create notes, edit them directly on the board and move them using a mouse or touch. Note content and positions are saved between visits.
 
-[Source code](https://github.com/ProfitCoder/WebbApp_for_Notes) · [Open the shared demo](https://profitcoder.github.io/WebbApp_for_Notes/)
+[![Source code](https://img.shields.io/badge/Source_code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/ProfitCoder/WebbApp_for_Notes)
+[![Open shared demo](https://img.shields.io/badge/Open_shared_demo-0369A1?style=flat-square&logo=firebase&logoColor=white)](https://profitcoder.github.io/WebbApp_for_Notes/)
 
 ### 🍋 LemonSqueezer
 
 An incremental browser game where players squeeze lemons, buy upgrades and automate juice production. It features a pixel-art interface, temporary bonuses and customisation. I built it with [ZaneDevv](https://github.com/ZaneDevv) and [Vimobo](https://github.com/Vimobo) as part of **Lemon Team**.
 
-[Source code](https://github.com/ProfitCoder/LemonSqueezer) · [Play LemonSqueezer](https://profitcoder.github.io/LemonSqueezer/)
+[![Source code](https://img.shields.io/badge/Source_code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/ProfitCoder/LemonSqueezer)
+[![Play LemonSqueezer](https://img.shields.io/badge/Play_LemonSqueezer-FACC15?style=flat-square)](https://profitcoder.github.io/LemonSqueezer/)
 
 ### 🎮 Code Runner
 
 A JavaScript arcade game where players dodge bugs and collect code fragments. It includes increasing difficulty, combos, three lives, keyboard and touch controls, and a high score saved locally in the browser.
 
-[Source code](https://github.com/ProfitCoder/HackatonGameJS) · [Play Code Runner](https://profitcoder.github.io/HackatonGameJS/)
+[![Source code](https://img.shields.io/badge/Source_code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/ProfitCoder/HackatonGameJS)
+[![Play Code Runner](https://img.shields.io/badge/Play_Code_Runner-7C3AED?style=flat-square)](https://profitcoder.github.io/HackatonGameJS/)
 
 ### 🤖 AI Lab
 
 A bilingual repository with **84 prompts** for text and image tasks, practical guides and AI-assisted projects. It includes a local Python bank reconciliation tool that compares bank and accounting spreadsheets and flags ambiguous matches for manual review.
 
-[Repository](https://github.com/ProfitCoder/ChatGPT) · [Prompt catalogue](https://github.com/ProfitCoder/ChatGPT/tree/main/Prompts) · [Practical guides](https://github.com/ProfitCoder/ChatGPT/tree/main/Resources)
+[![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/ProfitCoder/ChatGPT)
+[![Prompt catalogue](https://img.shields.io/badge/Prompt_catalogue-047857?style=flat-square)](https://github.com/ProfitCoder/ChatGPT/tree/main/Prompts)
+[![Practical guides](https://img.shields.io/badge/Practical_guides-0369A1?style=flat-square)](https://github.com/ProfitCoder/ChatGPT/tree/main/Resources)
 
 ---
 
@@ -78,36 +81,28 @@ A bilingual repository with **84 prompts** for text and image tasks, practical g
 
 ### Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
-</p>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend and programming
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
-</p>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-B91C1C?style=for-the-badge" alt="Oracle PL/SQL"/>
-  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" alt="Cloud Firestore"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle PL/SQL](https://img.shields.io/badge/Oracle_PL%2FSQL-B91C1C?style=for-the-badge)
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools and data formats
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/JSON-292929?style=for-the-badge&amp;logo=json&amp;logoColor=white" alt="JSON"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white)
 
 ---
 
@@ -128,8 +123,8 @@ A bilingual repository with **84 prompts** for text and image tasks, practical g
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProfitCoder&amp;theme=tokyonight" alt="GitHub statistics"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProfitCoder&amp;theme=tokyonight" alt="Public repositories by language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProfitCoder&amp;theme=tokyonight" alt="GitHub statistics">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProfitCoder&amp;theme=tokyonight" alt="Public repositories by language">
 </p>
 
 ---
@@ -138,10 +133,10 @@ A bilingual repository with **84 prompts** for text and image tasks, practical g
 
 On my YouTube channel, I share content about financial management and automation.
 
-**[Visit my YouTube channel →](https://www.youtube.com/@pablofernandezinvest)**
+[![Visit my YouTube channel](https://img.shields.io/badge/Visit_my_YouTube_channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@pablofernandezinvest)
 
 <p align="center">
-  <strong>Let's connect</strong><br/>
+  <strong>Let's connect</strong><br>
   <a href="https://www.linkedin.com/in/pablo-manuel-fern%C3%A1ndez-velazquez-715169385/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/ProfitCoder?tab=repositories">GitHub projects</a>
